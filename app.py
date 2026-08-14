@@ -2,7 +2,8 @@ tasks = [
     "Learn Linux",
     "Learn Git",
     "Learn Docker",
-    "Learn Jenkins"
+    "Learn Jenkins",
+    "Learn AWS"
 ]
 
 print("DevOps Task Tracker")
