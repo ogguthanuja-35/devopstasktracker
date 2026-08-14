@@ -18,3 +18,7 @@ This project uses Docker containers.
 
 This project is hosted on GitHub.
 
+## CI/CD
+
+This project will be used to practice CI/CD pipelines.
+
