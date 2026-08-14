@@ -8,3 +8,7 @@ A simple Python project for practicing Git and DevOps workflows.
 - Git
 - Docker
 - Jenkins
+
+## Docker
+
+This project will be containerized using Docker.
