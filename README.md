@@ -11,4 +11,4 @@ A simple Python project for practicing Git and DevOps workflows.
 
 ## Docker
 
-This project will be containerized using Docker.
+This project uses Docker for containerization.
