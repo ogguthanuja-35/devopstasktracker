@@ -14,3 +14,7 @@ A simple Python project for practicing Git and DevOps workflows.
 
 This project uses Docker containers.
 
+## GitHub
+
+This project is hosted on GitHub.
+
